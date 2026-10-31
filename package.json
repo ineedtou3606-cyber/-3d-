@@ -1,0 +1,1 @@
+{"name":"scene-forge","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"python3 server.py","test":"node src/engine.test.js && python3 -m unittest discover -s tests -v"}}
